@@ -11,6 +11,7 @@ def reverse_string(s: str) -> str:
     Returns:
         The reversed string
     """
+    return s[::-1]
     # TODO: Implement this function
     pass
 
